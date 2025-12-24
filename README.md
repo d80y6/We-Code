@@ -166,7 +166,7 @@ We love community contributions! Get started by reading our [CONTRIBUTING.md](CO
 
 ## License
 
-[Apache 2.0 © 2025 Roo Code, Inc.](./LICENSE)
+[Apache 2.0 © 2025 AICodeForYou.](./LICENSE)
 
 ---
 
